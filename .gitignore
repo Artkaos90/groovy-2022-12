@@ -3,5 +3,7 @@
 /build/
 /**/build/
 *.iml
+*.ipr
+*.iws
 /**.*.iml
 .gradle
