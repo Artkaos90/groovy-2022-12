@@ -5,6 +5,6 @@ class HelloOtus{
     def input = "apple,banana,pear,orange"
     def splitter = Splitter.on(",")
     def result = splitter.splitToList(input)
-    println result // вывод результата на консоль
+    println (result) // вывод результата на консоль
   }
 }
